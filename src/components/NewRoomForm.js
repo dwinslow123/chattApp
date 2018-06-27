@@ -9,3 +9,5 @@ class NewRoomForm extends Component {
     )
   }
 }
+
+export default NewRoomForm;
